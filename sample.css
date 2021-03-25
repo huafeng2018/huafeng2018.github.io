@@ -1,0 +1,27 @@
+#body {
+ margin:0px;
+ padding:0px;
+}
+#wrap {
+ width:800px;
+ margin-right:auto;
+ margin-left:auto;
+ margin-top:0px;
+ padding:0px;
+}
+#banner {
+ width:800px;
+ height:36px;
+}
+#gnavi {
+ width:800px;
+ height:36px;
+}
+#maincontent {
+ width:800px;
+ background-color:#CCCCCC;
+}
+#footer{
+ width:800px;
+ text-align: center;
+}
